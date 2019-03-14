@@ -1,0 +1,3 @@
+On recommender <class 'HybridRecommenderBEST.HybridRecommender'> Exception name 'SLIMElasticNetRecommender' is not defined
+On recommender <class 'HybridRecommenderBEST.HybridRecommender'> Exception Input contains NaN, infinity or a value too large for dtype('float64').
+On recommender <class 'HybridRecommenderPARAM.HybridRecommender'> Exception Input contains NaN, infinity or a value too large for dtype('float64').
